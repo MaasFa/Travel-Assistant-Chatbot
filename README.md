@@ -1,3 +1,5 @@
+<img width="1366" height="571" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/87c551cf-1396-4024-a5fa-cb2b5cb94154" />
+<img width="1366" height="591" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/c1e2ef60-4557-472b-9729-70e6083487b5" />
 # ✈️ Travel Assistant Chatbot
 
 A domain-specific AI chatbot designed to provide **real-time travel assistance** to users — built using **Botpress**, a no-code/low-code conversational AI platform. Users can type freely in natural language and receive intelligent responses about destinations, itineraries, and hotel recommendations.
